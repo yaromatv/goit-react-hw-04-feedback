@@ -1,0 +1,8 @@
+.feedbackOptions {
+  display: flex;
+  justify-content: space-between;
+}
+
+.feedbackOptions button {
+  width: 130px;
+}
